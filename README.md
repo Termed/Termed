@@ -1,4 +1,4 @@
-### Hi there 👋
+### lxi
 
 <!--
 **expIoits/expIoits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/user">
+    <img src="https://discord.c99.nl/widget/theme-4/849604824047812629.png"/>
+     </a>
+</p>
