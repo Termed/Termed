@@ -9,9 +9,8 @@
 # contact
 <p align="center">
 lxi#0001 - discord
-
-lxiwtd - twitter
 <p align="center">
+lxiwtd - twitter
   
 # ⭐
 
