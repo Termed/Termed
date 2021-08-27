@@ -7,8 +7,10 @@
 </p>
 
 # contact
+<p align="center">
 lxi#0001 - discord
-
+<p align="center">
+  
 # ⭐
 
 <a href="https://github.com/expIoits">
