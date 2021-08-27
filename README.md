@@ -6,6 +6,9 @@
      </a>
 </p>
 
+# contact
+lxi#0001 - discord
+
 # ⭐
 
 <a href="https://github.com/expIoits">
