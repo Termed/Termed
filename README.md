@@ -6,12 +6,6 @@
      </a>
 </p>
 
-# contact
-<p align="center">
-  <a href="https://github.com/expIoits">
-    <a text="hi">
-     </a>
-
 # ⭐
 
 <a href="https://github.com/expIoits">
