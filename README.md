@@ -5,12 +5,6 @@
     <img src="https://discord.c99.nl/widget/theme-4/849604824047812629.png"/>
      </a>
 </p>
-
-# contact
-<p align="center">
-lxi#0001 - discord
-<p align="center">
-lxiwtd - twitter
   
 # ⭐
 
