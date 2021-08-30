@@ -1,4 +1,7 @@
-# lxi
+<p align="center"># drugyn</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=expIoits"/> 
+</p>
 
 <p align="center">
   <a href="https://github.com/expIoits">
