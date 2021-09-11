@@ -1,4 +1,4 @@
-<p align="center">"mirr"</p>
+<p align="center">"mir"</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mir1472"/> 
 </p>
