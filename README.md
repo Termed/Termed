@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/termed">
-    <img src="[Discord Presence](https://lanyard-profile-readme.vercel.app/api/191149586054643712)](https://discord.com/users/191149586054643712)"/>
+    <img src="[Discord Presence](https://lanyard-profile-readme.vercel.app/api/191149586054643712)(https://discord.com/users/191149586054643712)"/>
      </a>
 </p>
 
