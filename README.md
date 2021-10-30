@@ -1,4 +1,4 @@
-<p align="center">"Teige"</p>
+<p align="center">"amir"</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tcrms"/> 
 </p>
